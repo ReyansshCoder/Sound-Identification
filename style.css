@@ -1,0 +1,46 @@
+body{
+
+    background:aqua  ;
+
+    font-family: 'Special Elite',cursive;
+
+}
+
+.title{
+
+    background: white;
+
+    color: red;
+
+}
+
+.title b{
+
+letter-spacing: 2px;
+
+font-size: 15px;
+
+font-weight: bold;
+
+color: chartreuse;
+
+}
+
+.footer{
+
+bottom: 0;
+
+position: fixed;
+
+width: 100%;
+
+text-align: center;
+
+color:white;
+
+background-color:crimson;
+
+font-weight: bold;
+
+}
+
